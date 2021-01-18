@@ -9,7 +9,7 @@ Some scripts that might be helpful in the exam.
 
 Meant for a task like:  
 
-![task1](./doc/task1.png)
+![task1](doc/task1.png?raw=true)
 
 **Output:**
 
@@ -26,7 +26,7 @@ Calculates the Exp[X] - Erwartungswert and the Var[X] - Varianz.
 
 Meant for a task like:
 
-![task2](./doc/task2.png)
+![task2](doc/task2.png?raw=true)
 
 **Output:**
 
